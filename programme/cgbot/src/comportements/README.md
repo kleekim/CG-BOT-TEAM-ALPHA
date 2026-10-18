@@ -5,4 +5,5 @@ Comportements
 - Reçoit : `BehaviorId` et `WorldState`
 - Produit : `Setpoint`
 - Fonction : `runBehavior()`, déclarée dans `comportements.h`
+- Responsables :Monica (ligne, obstacle), Gesycka (stratégie combat)
 - À ne pas faire : écrire directement sur une broche du robot.
